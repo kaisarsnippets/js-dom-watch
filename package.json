@@ -1,6 +1,6 @@
 {
   "name": "kc-dom-watch",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "[browser] DOM mutation observer",
   "main": "dom-watch.js",
   "repository": {
