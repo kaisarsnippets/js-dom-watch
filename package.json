@@ -1,0 +1,22 @@
+{
+  "name": "kc-dom-watch",
+  "version": "2.0.3",
+  "description": "[browser] DOM mutation observer",
+  "main": "dom-watch.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-dom-watch.git"
+  },
+  "keywords": [
+    "watch dom",
+    "watch elem added",
+    "mutation",
+    "observer"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-dom-watch/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-dom-watch"
+}
